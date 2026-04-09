@@ -8,3 +8,17 @@ wheels/
 
 # Virtual environments
 .venv
+
+# SitePulse specific
+sitepulse.db
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
