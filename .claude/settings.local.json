@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(python:*)",
+      "Bash(wc -l app/**/*.py tests/*.py sitepulse_app.py)",
+      "Bash(find app:*)",
+      "Bash(uv sync:*)"
+    ]
+  }
+}
